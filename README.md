@@ -26,7 +26,7 @@ message : "New data added to database"
 })
 
 db.set("Hello", "World"); //Changing the data! (hello => World)
-db.get("Hello"); //Shows the data! (Hello)
+db.get("HelloWorld"); //Shows the data! (HelloWorld)
 db.delete("Hello"); //Deletes the data! (hello => )
 db.has("Hello"); //Makes a condition! (false || true)
 db.fetch("Hello"); //Fetches the data! (hello)
