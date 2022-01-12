@@ -1,2 +1,2 @@
-# x.db
+# xiyuDB
 Simple JSON database for Node
