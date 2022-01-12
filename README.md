@@ -39,6 +39,4 @@ console.log(db.math("10 , "/" , "2")); // Answer: 5 | We divide a number by a nu
 ```
 
 # Contact for Anything
-[Discord Server](https://discord.gg/Ysj2XRAmGm) 
-
-[Discord User](https://discord.com/users/846046679328227358)
+[Discord Server](https://discord.gg/Ysj2XRAmGm) | [Discord User](https://discord.com/users/846046679328227358) | [Twitter](https://twitter.com/karincadev)
