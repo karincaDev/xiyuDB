@@ -1,0 +1,37 @@
+{
+  "name": "xiyuDB",
+  "version": "0.0.1",
+  "description": "Simple JSON database for Node",
+  "main": "xiyudb.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karincadev/xiyuDB.git"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "wio.db",
+    "xiyuDB",
+    "node database",
+    "json database",
+    "xel",
+    "quick.db",
+    "croxydb",
+    "mongodb",
+    "mongoose",
+    "website",
+    "connect-mongo"
+  ],
+  "author": "karincaDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karincadev/xiyuDB/issues"
+  },
+  "homepage": "https://github.com/karincadev/xiyuDB#readme"
+}
