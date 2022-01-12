@@ -1,18 +1,19 @@
-# xiyuDB
+# 💡 xiyuDB
 - Simple JSON database for Node
+- Faster & Easier usage.
 
 **Update 0.0.1**
 
 - There are no updates recently!
 
-# Setup
+# 💻 Setup
 
 ```js
 const Database = require("xiyuDB");
 const db = new Database()
 ```
 
-# xiyuDB Example
+# 📝 xiyuDB Example
 
 ```js
 //When database is ready, will send a message to console!
@@ -38,5 +39,5 @@ db.clear(); //Deletes all of the data! (This applies to everything.)
 console.log(db.math("10 , "/" , "2")); // Answer: 5 | We divide a number by a number.
 ```
 
-# Contact for Anything
+# ☎️ Contact for Anything
 [Discord Server](https://discord.gg/Ysj2XRAmGm) | [Discord User](https://discord.com/users/846046679328227358) | [Twitter](https://twitter.com/karincadev)
