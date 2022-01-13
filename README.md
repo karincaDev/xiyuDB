@@ -1,3 +1,5 @@
+#No more updating this source code!
+
 # 💡 xiyuDB
 - Simple JSON database for Node
 - Faster & Easier usage.
