@@ -104,7 +104,7 @@ module.exports = class xiyudb {
     math(key, transaction, key2) {
         if (!key) throw TypeError("The first number was not found.")
         if (!key2) throw TypeError("The second number was not found.")
-        if (!) throw TypeError("The transaction was not entered.")
+        if (!transaction) throw TypeError("The transaction was not entered.")
         let number = parseInt(number)
         let number2 = parseInt(number2)
         if (transaction == "+") {
