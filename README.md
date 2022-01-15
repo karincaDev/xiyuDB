@@ -1,4 +1,4 @@
-# No more updating this source code!
+# [No more updating this source code! Check the NPM Page!](https://www.npmjs.com/package/xiyudb)
 
 # 💡 xiyuDB
 - Simple JSON database for Node
